@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pass1234
+- 👀 I’m interested in data sciene.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on anything.
